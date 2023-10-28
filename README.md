@@ -1,8 +1,5 @@
-# 0x Launch Kit: Build an Exchange in Under a Minute 🚀📈
+# GDRC Exchange Launch Kit: Build an GDRC Exchange in Under a Minute 🚀📈
 
-## ⚠️ Deprecation Warning ️️⚠️
-
-This project is no longer being actively maintained. 
 To fork or run a [Standard Relayer API](https://0x.org/docs/api#sra) instance, you can use the [0x API](https://github.com/0xProject/0x-api) instead.
 
 |                              ERC-20                              |                              ERC-721                              |
